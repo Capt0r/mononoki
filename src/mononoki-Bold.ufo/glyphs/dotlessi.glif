@@ -19,22 +19,18 @@
       <point x="143" y="424" type="curve"/>
       <point x="235" y="424" type="line"/>
       <point x="235" y="97" type="line"/>
-      <point x="110" y="97" type="line"/>
-      <point x="90" y="97"/>
-      <point x="75" y="82"/>
-      <point x="75" y="62" type="curve"/>
-      <point x="75" y="35" type="line"/>
-      <point x="75" y="15"/>
-      <point x="90" y="0"/>
-      <point x="110" y="0" type="curve"/>
-      <point x="465" y="0" type="line"/>
-      <point x="485" y="0"/>
-      <point x="500" y="15"/>
-      <point x="500" y="35" type="curve"/>
-      <point x="500" y="62" type="line"/>
-      <point x="500" y="82"/>
-      <point x="485" y="97"/>
-      <point x="465" y="97" type="curve"/>
+      <point x="235" y="82" type="line"/>
+      <point x="235" y="62" type="line"/>
+      <point x="235" y="35" type="line"/>
+      <point x="235" y="15"/>
+      <point x="250" y="0"/>
+      <point x="270" y="0" type="curve"/>
+      <point x="305" y="0" type="line"/>
+      <point x="325" y="0"/>
+      <point x="340" y="15"/>
+      <point x="340" y="35" type="curve"/>
+      <point x="340" y="60" type="line"/>
+      <point x="340" y="80" type="line"/>
     </contour>
     <contour>
       <point x="517" y="10" type="move" name="ogonek"/>
